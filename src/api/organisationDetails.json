@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "_id": 1,
+      "orgimages": [
+        "https://res.cloudinary.com/zudu/image/upload/v1707719464/GivingForTheLiving/web/project-image/__r4fvwxcwwak.1jzfnzkyk_2.png",
+        "https://res.cloudinary.com/zudu/image/upload/v1707810998/GivingForTheLiving/web/project-image/bgImg.jpg",
+        "https://res.cloudinary.com/zudu/image/upload/v1707811992/GivingForTheLiving/web/project-image/ef3-placeholder-image.jpg",
+        "https://res.cloudinary.com/zudu/image/upload/v1707892041/GivingForTheLiving/web/project-image/pexels-maxime-francis-2246476.jpg",
+        "https://res.cloudinary.com/zudu/image/upload/v1708437830/GivingForTheLiving/web/project-image/Hydrangeas.jpg"
+      ],
+      "mostneededprogram": {
+        "image": "https://res.cloudinary.com/zudu/image/upload/v1708437910/GivingForTheLiving/web/project-image/british-shorthair-abyssinian-kitten-wallpaper-cute-gray-kitten.jpg",
+        "name": "Helping Hands, Helping Smiles"
+      },
+      "mission": "Lorem ipsum dolor sit amet consectetur. Nisi lorem convallis vitae mi diam. Ac accumsan urna turpis sed sed id. Libero ultricies senectus feugiat arcu aenean. Fringilla gravida erat elit in mi. Viverra eget blandit neque ac non. Turpis egestas vulputate quam adipiscing cras nulla dui. Ornare adipiscing velit cras aliquet justo turpis. Consectetur odio ac tellus commodo.Lorem ipsum dolor sit amet consectetur. Nisi lorem convallis vitae mi diam. Ac accumsan urna turpis sed sed id. Libero ultricies senectus feugiat arcu aenean. Fringilla gravida erat elit in mi. Viverra eget blandit neque ac non. Turpis egestas vulputate quam adipiscing cras nulla dui. Ornare adipiscing velit cras aliquet justo turpis. Consectetur odio ac tellus commodo.Lorem ipsum dolor sit amet consectetur. Nisi lorem convallis vitae mi diam. Ac accumsan urna turpis sed sed id. Libero ultricies senectus feugiat arcu aenean. Fringilla gravida erat elit in mi. Viverra eget blandit neque ac non. Turpis egestas vulputate quam adipiscing cras nulla dui. Ornare adipiscing velit cras aliquet justo turpis. Consectetur odio ac tellus commodo. Libero ultricies senectus feugiat arcu aenean. Fringilla gravida erat elit in mi. Viverra eget blandit neque ac non. Turpis egestas vulputate quam adipiscing cras nulla dui. Ornare adipiscing velit cras aliquet justo turpis. Consectetur odio ac tellus commodo.Lorem ipsum dolor sit amet consectetur. Nisi lorem convallis vitae mi diam. Ac accumsan urna turpis sed sed id. Libero ultricies senectus feugiat arcu aenean. Fringilla gravida erat elit in mi. Viverra eget blandit neque ac non. Turpis egestas vulputate quam adipiscing cras nulla dui. Ornare adipiscing velit cras aliquet justo turpis. Consectetur odio ac tellus commodo.",
+      "registrationnumber": "4578145878415",
+      "taxidnumber": "1254874165269897468",
+      "defaultrevenue": 3,
+      "representativedetails": {
+        "name": "Alexandrina Browning",
+        "address": "4988 North Figueroa Street, Los Angeles, CA 90042",
+        "email": "alexandrina.browning@example.com",
+        "phone": "+447700960054",
+        "dob": "20/11/1995"
+      },
+      "ownerdetails": {
+        "profile": "https://res.cloudinary.com/zudu/image/upload/v1707720903/GivingForTheLiving/web/project-image/dev_1.png",
+        "name": "Alexandrina Browning",
+        "address": "4988 North Figueroa Street, Los Angeles, CA 90042",
+        "email": "alexandrina.browning@example.com",
+        "phone": "+447700960054",
+        "dob": "20/11/1995"
+      },
+      "invitedby": {
+        "name": "John",
+        "email": "alexandrina.browning@example.com"
+      },
+      "signupat": "26 August 2022"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "_id": 1,
+      "milestoneName": "Donate the 200 LunchBox in 2 days",
+      "description": "we have plan to collect donation of 400 lunchBoxs in 2 day’s",
+      "milestoneGoal": "400 Meals"
+    },
+    {
+      "_id": 2,
+      "milestoneName": "Donate the 200 LunchBox in 2 days",
+      "description": "we have plan to collect donation of 400 lunchBoxs in 2 day’s",
+      "milestoneGoal": "400 Meals"
+    },
+    {
+      "_id": 3,
+      "milestoneName": "Donate the 200 LunchBox in 2 days",
+      "description": "we have plan to collect donation of 400 lunchBoxs in 2 day’s",
+      "milestoneGoal": "400 Meals"
+    }
+  ]
+}

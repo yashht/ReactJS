@@ -1,0 +1,76 @@
+{
+  "name": "gftl",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@coreui/coreui": "^4.3.2",
+    "@coreui/react-pro": "^4.15.2",
+    "@hookform/error-message": "^2.0.1",
+    "@reduxjs/toolkit": "^2.0.1",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.70",
+    "@types/react-dom": "^18.2.18",
+    "@types/react-helmet": "^6.1.11",
+    "axios": "^1.6.7",
+    "bootstrap": "^5.3.2",
+    "date-fns": "^3.3.1",
+    "i18next": "^23.7.16",
+    "i18next-browser-languagedetector": "^7.2.0",
+    "install": "^0.13.0",
+    "lodash": "^4.17.21",
+    "npm": "^10.4.0",
+    "moment": "^2.30.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.9.2",
+    "react-csv": "^2.2.2",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-google-places-autocomplete": "^4.0.1",
+    "react-helmet": "^6.1.0",
+    "react-hook-form": "^7.49.3",
+    "react-i18next": "^14.0.0",
+    "react-otp-input": "^3.1.1",
+    "react-phone-number-input": "^3.3.9",
+    "react-redux": "^9.0.4",
+    "react-router-dom": "^6.21.1",
+    "react-scripts": "5.0.1",
+    "react-scrollbars-custom": "^4.1.1",
+    "react-select": "^5.8.0",
+    "redux-persist": "^6.0.0",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.202",
+    "@types/react": "^18.2.55",
+    "@types/react-csv": "^1.1.10",
+    "@types/react-redux": "^7.1.33"
+  }
+}

@@ -1,0 +1,144 @@
+.authPages {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.authCenter {
+    width: 450px;
+}
+.whiteBack {
+    position: relative;
+    display: block;
+    background-color: var(--WHITE);
+    border-radius: 8px;
+    box-shadow: 0px 10px 20px 0px rgba(18, 38, 63, 0.03);
+    overflow: hidden;
+}
+.form {
+    padding: 20px 38px;
+}
+.emailText {
+    color: var(--PRIMARY);
+    font-size: var(--FONT13);
+    margin-top: 2px;
+}
+.forgotpassCenter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 24px;
+}
+.forgotPasswordLink {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    font-size: var(--FONT13);
+    font-weight: var(--FONT_WEIGHT_400);
+    color: var(--LIGHTGRAY) !important;
+    text-decoration: none;
+}
+.forgotPasswordLink .icon-lock {
+    position: relative;
+    top: -2px;
+}
+.forgotPasswordLink i {
+    margin-right: 10px;
+    font-size: var(--FONT20);
+}
+.copyrightTitle {
+    margin: 48px 0 0 0;
+    text-align: center;
+    font-size: var(--FONT13);
+}
+.checkbox-main {
+    margin-bottom: 24px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: relative;
+}
+.checkbox-main .checkbox {
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+.checkboxLabel {
+    font-size: var(--FONT14);
+    font-weight: var(--FONT_WEIGHT_400);
+    color: var(--GRAY);
+    cursor: pointer;
+}
+.checkbox-main i {
+    margin-right: 8px;
+    font-size: var(--FONT16);
+    color: var(--GRAY);
+}
+.form .otp-container {
+    justify-content: space-between;
+}
+
+.form .otp-container .otp-input-none-style {
+    width: 72px !important;
+    height: 48px;
+    border: 1px solid var(--PLACEHOLDER);
+    border-radius: 4px;
+    font-size: var(--FONT16);
+    font-weight: var(--FONT_WEIGHT_600);
+    line-height: 30px;
+    color: var(--PLACEHOLDER);
+    background-color: var(--WHITE);
+}
+
+.form .otp-container .otpInputFillStyle {
+    width: 72px !important;
+    height: 48px;
+    border: 1px solid var(--PRIMARY);
+    border-radius: 6px;
+    font-size: var(--FONT16);
+    font-weight: var(--FONT_WEIGHT_600);
+    line-height: 30px;
+    color: var(--PRIMARY);
+    background-color: var(--WHITE);
+}
+
+.form .otp-container input:focus-visible {
+    outline: none;
+}
+
+.resend-code-style {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--FONT14);
+    color: var(--GRAY);
+}
+
+.resend-code-style p {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.resend-code-style span {
+    color: var(--PRIMARY);
+    padding: 2px;
+    margin-left: 6px;
+    cursor: pointer;
+}
+.resend-code-timer-style {
+    margin-left: 6px !important;
+}
+.resend-code-timer-style span {
+    color: var(--TIMERBLUE);
+    min-width: 30px;
+    padding: 0;
+}
